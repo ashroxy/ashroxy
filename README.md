@@ -103,7 +103,7 @@ Hi! I'm a Computer Science & Engineering undergraduate at Amrita University. I a
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=ashrion&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&border_radius=12" alt="GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ashrion&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&border_radius=12)](https://git.io/streak-stats)
 
 </div>
 
