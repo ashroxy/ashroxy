@@ -97,13 +97,13 @@ Hi! I'm a Computer Science & Engineering undergraduate at Amrita University. I a
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=ashrion&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api?username=ashroxy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" alt="GitHub Stats" height="170"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ashrion&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=12" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ashroxy&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=12" alt="Top Languages" height="170"/>
 
 <br/><br/>
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ashrion&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&border_radius=12)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ashroxy&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&border_radius=12)](https://git.io/streak-stats)
 
 </div>
 
